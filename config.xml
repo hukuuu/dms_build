@@ -6,7 +6,7 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>DMS Mobile</name>
+    <name>DMS Mobile test</name>
 
     <preference name="load-url-timeout" value="30000" />
 </widget>
