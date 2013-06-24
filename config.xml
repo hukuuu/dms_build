@@ -8,9 +8,4 @@
 
     <name>DMS Mobile</name>
     <preference name="load-url-timeout" value="30000" />
-
-     <gap:plugin name="FacebookConnect">
-       <param name="APP_ID" value="540080272718070" />
-       <param name="APP_NAME" value="dms-mobile" />
-     </gap:plugin>
 </widget>
