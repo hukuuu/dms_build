@@ -4,10 +4,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.snn.org"
-        version   = "1.0.0">
+        version   = "2.9.0">
 
     <name>DMS Mobile</name>
-    <preference name="load-url-timeout" value="30000" />
+    <preference name="load-url-timeout" value="60000" />
     <preference name="auto-hide-splash-screen" value="false" />
 
 </widget>
