@@ -4,10 +4,19 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.snn.org"
-        version   = "2.9.0">
+        version   = "1.0.0">
 
     <name>DMS Mobile</name>
     <preference name="load-url-timeout" value="60000" />
     <preference name="auto-hide-splash-screen" value="false" />
+	<preference name="phonegap-version" value="2.9.0" />
+
+	<description>
+        DMS Mobile
+    </description>
+
+    <author href="https://build.phonegap.com" email="snn.org@gmail.com">
+        Stoyan Ivanov, Nikolai Rusev, Nikolai Karadjov
+    </author>
 
 </widget>
