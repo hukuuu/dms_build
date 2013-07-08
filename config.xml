@@ -7,11 +7,14 @@
         version   = "1.0.0">
 
     <name>DMS Mobile</name>
-    <preference name="load-url-timeout" value="60000" />
+    <preference name="permissions" value="none"/>
+	<preference name="load-url-timeout" value="60000" />
     <preference name="auto-hide-splash-screen" value="false" />
 	<preference name="phonegap-version" value="2.9.0" />
 	
 	<icon src="icon.png" />
+	
+	
 
 	<description>
         DMS Mobile
